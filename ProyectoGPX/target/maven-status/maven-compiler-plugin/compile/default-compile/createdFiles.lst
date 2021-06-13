@@ -1,0 +1,11 @@
+com\mycompany\proyectogpx\beans\Gpx.class
+com\mycompany\proyectogpx\beans\Metadata.class
+module-info.class
+com\mycompany\proyectogpx\beans\Trk.class
+com\mycompany\proyectogpx\beans\TrkPT.class
+com\mycompany\proyectogpx\beans\Objetos.class
+com\mycompany\proyectogpx\beans\ObjetosTRK.class
+com\mycompany\proyectogpx\util\UtilXML.class
+com\mycompany\proyectogpx\beans\TrkSEG.class
+com\mycompany\proyectogpx\beans\Fecha.class
+com\mycompany\proyectogpx\App.class
